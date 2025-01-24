@@ -1,6 +1,10 @@
 <template>
   <div class="bg-gray-100 min-h-screen">
+
+
     <Navbar />
+
+    
     <div class="container mx-auto p-6 bg-white shadow-lg rounded-lg mt-6">
       <!-- หัวข้อ -->
       <h1 class="text-3xl font-bold mb-6 text-center text-gray-800">รายการสินค้า</h1>

@@ -92,10 +92,9 @@
     data() {
       return {
         images: [
-          "src/assets/braner/ss.jpg",
-          "src/assets/braner/bn2.jpg",
-          "src/assets/braner/harry-potter-books-in-order-1-1729712610076.jpg",
-          "src/assets/braner/intro-1718379297.jpg",
+          "src/assets/braner/12_DAYS_WEB_BANNER_CYOT_2.webp",
+          "src/assets/braner/dd.jpg",
+          "src/assets/braner/HERO_trunks.webp",
         ],
         activeIndex: 0,
       };

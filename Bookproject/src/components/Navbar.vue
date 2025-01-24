@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-red-900  text-white py-4 px-6 flex justify-between items-center">
+  <nav class="bg-red-950  text-yellow-500 py-4 px-6 flex justify-between items-center">
     <h1 class="ml-10 font-serif text-3xl font-bold">NaiDin</h1>
     <div class="flex space-x-6">
       <router-link to="/" class=" font-serif hover:text-gray-200">Home</router-link>
@@ -17,4 +17,4 @@ export default {
 };
 </script>
 
-<style scoped></style>
+
